@@ -1,0 +1,15 @@
+C:\Users\Ray_Gek\Desktop\экзамен\zadanie4\zadanie4\bin\Debug\net6.0\zadanie4.exe
+C:\Users\Ray_Gek\Desktop\экзамен\zadanie4\zadanie4\bin\Debug\net6.0\zadanie4.deps.json
+C:\Users\Ray_Gek\Desktop\экзамен\zadanie4\zadanie4\bin\Debug\net6.0\zadanie4.runtimeconfig.json
+C:\Users\Ray_Gek\Desktop\экзамен\zadanie4\zadanie4\bin\Debug\net6.0\zadanie4.dll
+C:\Users\Ray_Gek\Desktop\экзамен\zadanie4\zadanie4\bin\Debug\net6.0\zadanie4.pdb
+C:\Users\Ray_Gek\Desktop\экзамен\zadanie4\zadanie4\obj\Debug\net6.0\zadanie4.csproj.AssemblyReference.cache
+C:\Users\Ray_Gek\Desktop\экзамен\zadanie4\zadanie4\obj\Debug\net6.0\zadanie4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ray_Gek\Desktop\экзамен\zadanie4\zadanie4\obj\Debug\net6.0\zadanie4.AssemblyInfoInputs.cache
+C:\Users\Ray_Gek\Desktop\экзамен\zadanie4\zadanie4\obj\Debug\net6.0\zadanie4.AssemblyInfo.cs
+C:\Users\Ray_Gek\Desktop\экзамен\zadanie4\zadanie4\obj\Debug\net6.0\zadanie4.csproj.CoreCompileInputs.cache
+C:\Users\Ray_Gek\Desktop\экзамен\zadanie4\zadanie4\obj\Debug\net6.0\zadanie4.dll
+C:\Users\Ray_Gek\Desktop\экзамен\zadanie4\zadanie4\obj\Debug\net6.0\refint\zadanie4.dll
+C:\Users\Ray_Gek\Desktop\экзамен\zadanie4\zadanie4\obj\Debug\net6.0\zadanie4.pdb
+C:\Users\Ray_Gek\Desktop\экзамен\zadanie4\zadanie4\obj\Debug\net6.0\zadanie4.genruntimeconfig.cache
+C:\Users\Ray_Gek\Desktop\экзамен\zadanie4\zadanie4\obj\Debug\net6.0\ref\zadanie4.dll
